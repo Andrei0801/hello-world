@@ -2,4 +2,3 @@
 começando
 este é meu primeiro teste no github
 estou criando um teste
-Ganhar medalha
