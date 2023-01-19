@@ -1,7 +1,8 @@
-number = [0,0,0,0,0,0,0,0]
+
+number = [0,0,0,0,0]
 x = 0
 int(input(""))
-while x < 8:
+while x < 5:
     number[x] =  int(input(f"Número {x + 1}: "))
     x += 1
 
